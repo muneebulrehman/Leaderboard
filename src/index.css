@@ -31,5 +31,22 @@ ul li {
 
 .score-header {
 	display: flex;
+	justify-content: space-between;
 	gap: 1rem;
+}
+.score-board {
+	margin-top: 2rem;
+	width: 20rem;
+	border: 3px solid black;
+}
+.each-score {
+	padding: 0.25rem;
+	display: flex;
+	gap: 0.5rem;
+}
+.btn {
+	background-color: transparent;
+	padding: 0.1rem 0.5rem;
+	font-weight: bold;
+	border: 3px solid black;
 }
