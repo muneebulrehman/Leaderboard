@@ -49,6 +49,7 @@ ul li {
 	padding: 0.1rem 0.5rem;
 	font-weight: bold;
 	border: 3px solid black;
+	cursor: pointer;
 }
 form {
 	margin-top: 2rem;
