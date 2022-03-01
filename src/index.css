@@ -50,3 +50,23 @@ ul li {
 	font-weight: bold;
 	border: 3px solid black;
 }
+form {
+	margin-top: 2rem;
+	display: flex;
+	flex-direction: column;
+	gap: 1rem;
+}
+input {
+	border: 3px solid black;
+	padding: 0.25rem;
+}
+input::placeholder {
+	padding: 0.2rem;
+	color: black;
+	font-weight: bold;
+}
+
+.submit {
+	width: 50%;
+	align-self: flex-end;
+}
