@@ -5,6 +5,9 @@
 Additional description about the project and its features.
 -Phase 1. No features added yet.
 
+### Screenshot
+![Screenshot](./src/images/screenshot.png)
+
 # Getting Started
 
 To get a local copy up and running follow these simple steps.
