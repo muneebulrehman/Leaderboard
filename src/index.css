@@ -80,3 +80,11 @@ input::placeholder {
   width: 50%;
   align-self: flex-end;
 }
+
+.white {
+  background-color: white;
+}
+
+.grey {
+  background-color: lightgrey;
+}

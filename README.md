@@ -4,6 +4,7 @@
 
 Additional description about the project and its features.
 -Phase 1. No features added yet.
+-Phase 2. Created new game. Implemented refresh button and submit form button to consume api. Used async and await.
 
 ### Screenshot
 ![Screenshot](./src/images/screenshot.png)
