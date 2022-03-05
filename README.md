@@ -14,7 +14,7 @@ Additional description about the project and its features.
 To get a local copy up and running follow these simple steps.
 
 - You can clone this repo by typing on your terminal.<pre><code>git clone https://github.com/muneebulrehman/Leaderboard.git</code></pre>
-- Type <pre><code>Leaderboard</code></pre> to access the project on the terminal
+- Type <pre><code>cd Leaderboard</code></pre> to access the project on the terminal
 
 ## Built With
 
